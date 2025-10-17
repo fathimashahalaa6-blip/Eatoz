@@ -1,0 +1,67 @@
+[36mvite v7.1.10 [32mbuilding for production...[36m[39m
+transforming...
+[32m✓[39m 139 modules transformed.
+rendering chunks...
+computing gzip size...
+[2mdist/[22m[32mindex.html                           [39m[1m[2m    0.46 kB[22m[1m[22m[2m │ gzip:  0.30 kB[22m
+[2mdist/[22m[32massets/app_store-C8O_cY6s.png        [39m[1m[2m    6.11 kB[22m[1m[22m
+[2mdist/[22m[32massets/play_store-B2tFv0Hy.png       [39m[1m[2m    7.51 kB[22m[1m[22m
+[2mdist/[22m[32massets/error_page-Cwn3NIMm.png       [39m[1m[2m   12.14 kB[22m[1m[22m
+[2mdist/[22m[32massets/cake_logo-DxI9BEXS.png        [39m[1m[2m   27.63 kB[22m[1m[22m
+[2mdist/[22m[32massets/menu_4-CpXAwO71.png           [39m[1m[2m   31.99 kB[22m[1m[22m
+[2mdist/[22m[32massets/menu_2-6QL_uDtg.png           [39m[1m[2m   32.22 kB[22m[1m[22m
+[2mdist/[22m[32massets/noodles_logo-Cv3S_kgp.png     [39m[1m[2m   34.98 kB[22m[1m[22m
+[2mdist/[22m[32massets/m_logo-CqzmwcUb.png           [39m[1m[2m   35.35 kB[22m[1m[22m
+[2mdist/[22m[32massets/porrota_logoo-D0TngFNu.png    [39m[1m[2m   36.05 kB[22m[1m[22m
+[2mdist/[22m[32massets/menu_1-CpSfC1Ff.png           [39m[1m[2m   37.57 kB[22m[1m[22m
+[2mdist/[22m[32massets/menu_6-BAKCTvIj.png           [39m[1m[2m   40.09 kB[22m[1m[22m
+[2mdist/[22m[32massets/pasta_logo-AWg76rTK.png       [39m[1m[2m   53.79 kB[22m[1m[22m
+[2mdist/[22m[32massets/biriyani_logo-CTg-7cLr.png    [39m[1m[2m   57.17 kB[22m[1m[22m
+[2mdist/[22m[32massets/iceCream_pics-dG0toIKO.png    [39m[1m[2m   78.22 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_19-CFHillXF.png          [39m[1m[2m   98.57 kB[22m[1m[22m
+[2mdist/[22m[32massets/pic_3-CCSPXHTC.png            [39m[1m[2m  103.08 kB[22m[1m[22m
+[2mdist/[22m[32massets/EEAT_logo-Df6Pp5T5.png        [39m[1m[2m  108.25 kB[22m[1m[22m
+[2mdist/[22m[32massets/pic_2-Cm-GyBuy.png            [39m[1m[2m  114.63 kB[22m[1m[22m
+[2mdist/[22m[32massets/beef_biriyani-Cn9TIkiK.png    [39m[1m[2m  122.97 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_12-TcaAZGUd.png          [39m[1m[2m  130.38 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_30-CfTld12c.png          [39m[1m[2m  139.49 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_18-D9lmXWyv.png          [39m[1m[2m  141.14 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_17-B8PBV8Ml.png          [39m[1m[2m  145.16 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_10-Cdj7aC_-.png          [39m[1m[2m  146.91 kB[22m[1m[22m
+[2mdist/[22m[32massets/porotta_2-BFL1mcS2.png        [39m[1m[2m  147.56 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_11-DfRPpaFP.png          [39m[1m[2m  151.60 kB[22m[1m[22m
+[2mdist/[22m[32massets/gopi_m-CykYJWdv.png           [39m[1m[2m  152.17 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_27-Bd1jqUGP.png          [39m[1m[2m  154.43 kB[22m[1m[22m
+[2mdist/[22m[32massets/porotta_4-BqNpDur3.png        [39m[1m[2m  156.60 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_13-k_d-dzFx.png          [39m[1m[2m  159.91 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_20-CTe0fZJ7.png          [39m[1m[2m  161.89 kB[22m[1m[22m
+[2mdist/[22m[32massets/sambar-BvaFGmII.png           [39m[1m[2m  163.02 kB[22m[1m[22m
+[2mdist/[22m[32massets/cornSalads-MzldpZ1C.PNG       [39m[1m[2m  164.15 kB[22m[1m[22m
+[2mdist/[22m[32massets/p_biriyani-DhiVOPG9.png       [39m[1m[2m  166.15 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_29-B8GW2frB.png          [39m[1m[2m  182.59 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_14-C9vU_xdJ.png          [39m[1m[2m  185.32 kB[22m[1m[22m
+[2mdist/[22m[32massets/C_mandh-Dq3Gsbh_.png          [39m[1m[2m  190.06 kB[22m[1m[22m
+[2mdist/[22m[32massets/M_mandhi-Bg6SAj4N.png         [39m[1m[2m  191.32 kB[22m[1m[22m
+[2mdist/[22m[32massets/porotta_1-Cl8U-el_.png        [39m[1m[2m  192.95 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_6-Cz8hlc5i.png           [39m[1m[2m  195.19 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_32-BKt-jRyi.png          [39m[1m[2m  195.85 kB[22m[1m[22m
+[2mdist/[22m[32massets/m_biriyani-BPtXwjQr.png       [39m[1m[2m  196.37 kB[22m[1m[22m
+[2mdist/[22m[32massets/Dal_Curry-zl7r-l5w.png        [39m[1m[2m  199.21 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_2-Bviin0XJ.png           [39m[1m[2m  200.77 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_7-xL5P3oOv.png           [39m[1m[2m  201.21 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_15-CLR4VtEo.png          [39m[1m[2m  204.07 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_26-ButgZpoJ.png          [39m[1m[2m  204.97 kB[22m[1m[22m
+[2mdist/[22m[32massets/chicken_biriyan-CAlimlUI.png  [39m[1m[2m  209.25 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_16-DqWMQk4h.png          [39m[1m[2m  209.91 kB[22m[1m[22m
+[2mdist/[22m[32massets/porotta_3-CLLNuCmb.png        [39m[1m[2m  211.43 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_28-D2lOoPiC.png          [39m[1m[2m  222.29 kB[22m[1m[22m
+[2mdist/[22m[32massets/food_8-Cl7of1B4.png           [39m[1m[2m  225.04 kB[22m[1m[22m
+[2mdist/[22m[32massets/Chik_S-DII8mDBj.png           [39m[1m[2m  226.67 kB[22m[1m[22m
+[2mdist/[22m[32massets/salaad_A-C7UHVxts.png         [39m[1m[2m  243.87 kB[22m[1m[22m
+[2mdist/[22m[32massets/instaS_logo-C898Ipmi.png      [39m[1m[2m  250.62 kB[22m[1m[22m
+[2mdist/[22m[32massets/mashroom_D-9gRYNjvB.png       [39m[1m[2m  250.63 kB[22m[1m[22m
+[2mdist/[22m[32massets/pic_44-Cy4-onpa.PNG           [39m[1m[2m  325.49 kB[22m[1m[22m
+[2mdist/[22m[32massets/header_img-DfvEA7zQ.png       [39m[1m[2m1,814.65 kB[22m[1m[22m
+[2mdist/[22m[35massets/index-CEfGd70X.css            [39m[1m[2m    8.32 kB[22m[1m[22m[2m │ gzip:  2.25 kB[22m
+[2mdist/[22m[36massets/index-4s4a29gl.js             [39m[1m[2m  260.31 kB[22m[1m[22m[2m │ gzip: 86.73 kB[22m
+[32m✓ built in 2.93s[39m
